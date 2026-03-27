@@ -1,4 +1,4 @@
-# Predictive Modeling of YouTube Engagement
+# 📊 Predictive Modeling of YouTube Engagement (Machine Learning Project
 
 ## Overview
 This project uses machine learning to predict YouTube video views based on engagement metrics such as likes, dislikes, and comments.
