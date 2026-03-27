@@ -20,9 +20,10 @@ This project uses machine learning to predict YouTube video views based on engag
 - Evaluated performance using R² score
 - Visualized predicted vs actual values
 
-## Results
+- ## Key Results
 - Achieved R² score of ~0.82
-- Model demonstrates strong predictive capability for video engagement
+- Identified strong correlation between engagement metrics and video views
+- Demonstrated ability to model large-scale real-world data
 
 ## Visualization
 Scatter plot comparing actual vs predicted views shows model accuracy and variance.
@@ -31,6 +32,11 @@ Scatter plot comparing actual vs predicted views shows model accuracy and varian
 - Add more features (category, publish time)
 - Use advanced models (XGBoost, Gradient Boosting)
 - Perform feature engineering for better accuracy
+
+- ## How to Run
+1. Open the notebook in Google Colab or Jupyter
+2. Upload the dataset (USvideos.csv)
+3. Run all cells to reproduce results
 
 ## Author
 Akshita Mothsara
